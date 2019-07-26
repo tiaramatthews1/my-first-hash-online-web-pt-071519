@@ -15,6 +15,7 @@ def retrieval(key, value)
 end
 
 def adding(key, value)
+ 
  hash["muskets"][2] << the_manifest
  hash["gun powder"][4] << the_manifest
 end
