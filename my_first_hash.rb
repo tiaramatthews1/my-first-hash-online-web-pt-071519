@@ -2,7 +2,7 @@ def my_hash
   your_hash = {"name" => "Tiara"}
 end
 
-def shipping_manifest(array)
+def shipping_manifest
   the_manifest = {
     "whale bone corsets" => 5, 
     "porcelain vases" => 2, 
