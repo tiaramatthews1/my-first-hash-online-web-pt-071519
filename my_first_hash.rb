@@ -15,7 +15,12 @@ def retrieval(key, value)
 end
 
 def adding(key, value)
+ the_manifest = {
+    "whale bone corsets" => 5, 
+    "porcelain vases" => 2, 
+    "oil paintings" => 3
+}
  
- hash["muskets"][2] << the_manifest
- hash["gun powder"][4] << the_manifest
+ hash["muskets"] = 2 << the_manifest
+ hash["gun powder"] = 4 << the_manifest
 end
