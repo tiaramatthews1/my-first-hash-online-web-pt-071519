@@ -1,5 +1,5 @@
 def my_hash(key, value)
-  my_hash = {"name" => "Tiara"}
+  your_hash = {"name" => "Tiara"}
 end
 
 def shipping_manifest(array)
