@@ -11,7 +11,7 @@ def shipping_manifest(array)
 end
 
 def retrieval(key, value)
-  the_manifest["oil paintings"]
+  shipping_manifest["oil paintings"]
 end
 
 def adding(key, value)
