@@ -21,5 +21,6 @@ def adding(key, value)
     "oil paintings" => 3
 }
  
-
+shipping_manifest
+shipping_manifest[] =
 end
